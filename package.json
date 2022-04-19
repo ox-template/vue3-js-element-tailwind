@@ -1,0 +1,31 @@
+{
+  "name": "stock",
+  "version": "0.0.0",
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "preview": "vite preview"
+  },
+  "dependencies": {
+    "element-plus": "^1.2.0-beta.5",
+    "less": "^4.1.2",
+    "less-loader": "^7.0.0",
+    "vue": "^3.2.23",
+    "vue-router": "^4.0.12",
+    "vuex": "^4.0.2"
+  },
+  "devDependencies": {
+    "@vitejs/plugin-vue": "^1.10.2",
+    "autoprefixer": "^10.4.4",
+    "eslint": "^8.5.0",
+    "eslint-config-prettier": "^8.3.0",
+    "eslint-plugin-vue": "^8.2.0",
+    "postcss": "^8.4.12",
+    "prettier": "2.5.1",
+    "sass": "^1.50.1",
+    "tailwindcss": "^2.2.16",
+    "unplugin-auto-import": "^0.5.3",
+    "unplugin-vue-components": "^0.17.6",
+    "vite": "^2.7.0"
+  }
+}
